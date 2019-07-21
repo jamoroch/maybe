@@ -3,7 +3,10 @@ The System Under Test is based on [Miguel Grinberg's Flask Mega-Tutorial](https:
 ## Installing and all that jazz
 _Python3 is needed._
 
-`python3 -m venv .`
+`python3 -m venv venv`
+
+`source venv/bin/activate`
+
 
 `pip install -r requirements.txt`
 
