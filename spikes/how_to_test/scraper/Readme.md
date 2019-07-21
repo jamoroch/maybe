@@ -4,4 +4,4 @@ _node is required_
 
 `npm install`
 
-`node scraper.js`
+`node src/scraper.js`
